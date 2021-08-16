@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @crParsnipz
 - 👀 I’m interested in Games, Design, pretty UIs, Food and the great outdoors :D
-- 🌱 I’m currently learning to setup CI/CD Pipelines
-- 💞️ I’m looking to collaborate on no sure yet :O
 - 📫 How to reach me ...
 
 <!---
